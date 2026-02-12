@@ -1,1 +1,42 @@
-Author Prince
+Here’s a clean README.md file you can include with your script. It explains usage, dependencies, and installation clearly for QBX Core + ox_lib setup.
+
+🚗 Vehicle Info Command (QBX Core + ox_lib)
+
+A simple Vehicle Information command for QBX Core servers using ox_lib context menu.
+This script allows players to view their current vehicle information such as:
+
+Number Plate
+
+Fuel Level
+
+Engine Health
+
+Body Health
+
+All information is displayed using a clean ox_lib context menu UI.
+
+✅ Features
+
+Shows vehicle information using ox_lib context menu
+
+Fuel percentage display
+
+Engine health percentage
+
+Body health percentage
+
+Progress bars with color indicators
+
+Error notification if player is not inside a vehicle
+
+Lightweight and optimized
+
+📦 Dependencies
+
+This script requires the following resources:
+
+QBX Core
+
+ox_lib
+
+lc_fuel (for fuel reading)
